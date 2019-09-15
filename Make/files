@@ -1,0 +1,3 @@
+hydrocrackerFoam7.C
+
+EXE = $(FOAM_APPBIN)/hydrocrackerFoam7
